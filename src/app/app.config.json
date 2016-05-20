@@ -1,0 +1,7 @@
+{
+  "appname": "partner-demo",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "561F2B11-059E-4B94-B1BF-A1543E2A1916",
+  "buyerid": "test-buyer",
+  "environment": "prod"
+}
